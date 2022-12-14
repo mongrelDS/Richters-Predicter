@@ -1,5 +1,4 @@
-# Nepal
-Richter's Predictor: Modeling Earthquake Damage
+# Richter's Predictor: Modeling Earthquake Damage
 
 ReadMe
 
