@@ -6,7 +6,7 @@ This started as a logistic regression / decision trees exercise.
 After working on this notebook I started working on the 
 Richter's Predictor competition hosted by DrivenData.
 
-Spoiler: I am at [rank 211 as of 2022 - 12 -15]
+Spoiler: I am at [rank 178 as of 2022 - 12 -16]
 
 (https://www.drivendata.org/competitions/57/nepal-earthquake/leaderboard/?page=5). 
 
